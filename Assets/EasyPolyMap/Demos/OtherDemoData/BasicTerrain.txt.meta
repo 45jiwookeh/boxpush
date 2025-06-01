@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ab2ad465ba5364c4ab81f4407ca67443
+timeCreated: 1491805259
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 87682
+  packageName: Easy Poly Map Creator--Custom your LowPoly world
+  packageVersion: 1.0.0
+  assetPath: Assets/EasyPolyMap/Demos/OtherDemoData/BasicTerrain.txt
+  uploadId: 175589

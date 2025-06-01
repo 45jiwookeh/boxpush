@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0191db4b05fe27c47b47a345538db957
+timeCreated: 1492316520
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 87682
+  packageName: Easy Poly Map Creator--Custom your LowPoly world
+  packageVersion: 1.0.0
+  assetPath: Assets/EasyPolyMap/Code/EasyPolyMapCore.zip
+  uploadId: 175589

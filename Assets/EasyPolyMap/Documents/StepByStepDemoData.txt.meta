@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4ee881c2f6ddfd741868787510065a6d
+timeCreated: 1491797994
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 87682
+  packageName: Easy Poly Map Creator--Custom your LowPoly world
+  packageVersion: 1.0.0
+  assetPath: Assets/EasyPolyMap/Documents/StepByStepDemoData.txt
+  uploadId: 175589

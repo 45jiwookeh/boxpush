@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0262ebd49365af44891392a569f2f9d1
+timeCreated: 1491801735
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 87682
+  packageName: Easy Poly Map Creator--Custom your LowPoly world
+  packageVersion: 1.0.0
+  assetPath: Assets/EasyPolyMap/Demos/OtherDemoData/Circle_Island_Data.txt
+  uploadId: 175589

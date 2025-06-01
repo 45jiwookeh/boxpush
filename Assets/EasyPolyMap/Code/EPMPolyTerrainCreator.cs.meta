@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 3758e1ddcad11e34ca246c3e16755dfc
+timeCreated: 1490482580
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 87682
+  packageName: Easy Poly Map Creator--Custom your LowPoly world
+  packageVersion: 1.0.0
+  assetPath: Assets/EasyPolyMap/Code/EPMPolyTerrainCreator.cs
+  uploadId: 175589

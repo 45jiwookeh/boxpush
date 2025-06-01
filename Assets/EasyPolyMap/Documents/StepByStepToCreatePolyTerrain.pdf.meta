@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 727183db9d568ca4483939ba03d16000
+timeCreated: 1491865748
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 87682
+  packageName: Easy Poly Map Creator--Custom your LowPoly world
+  packageVersion: 1.0.0
+  assetPath: Assets/EasyPolyMap/Documents/StepByStepToCreatePolyTerrain.pdf
+  uploadId: 175589

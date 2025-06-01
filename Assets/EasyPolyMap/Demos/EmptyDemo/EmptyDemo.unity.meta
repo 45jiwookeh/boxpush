@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bd6911473d8d43243929db3403dcc19e
+timeCreated: 1491779687
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 87682
+  packageName: Easy Poly Map Creator--Custom your LowPoly world
+  packageVersion: 1.0.0
+  assetPath: Assets/EasyPolyMap/Demos/EmptyDemo/EmptyDemo.unity
+  uploadId: 175589

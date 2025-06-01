@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: f6ae45f8dba053244b5288744c04b722
+timeCreated: 1491593894
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 87682
+  packageName: Easy Poly Map Creator--Custom your LowPoly world
+  packageVersion: 1.0.0
+  assetPath: Assets/EasyPolyMap/Code/EPMObjExporter.cs
+  uploadId: 175589

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: acab0e9b954826641be8e57a14bf0b0c
+timeCreated: 1491719742
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 87682
+  packageName: Easy Poly Map Creator--Custom your LowPoly world
+  packageVersion: 1.0.0
+  assetPath: Assets/EasyPolyMap/Demos/SpringIsland/SpringIsland_data.txt
+  uploadId: 175589
