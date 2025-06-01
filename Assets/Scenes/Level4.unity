@@ -22339,7 +22339,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "\uC138\uC0C1\uC5D0 \uC774\uAC78 \uD574\uB0B8\uB2E4\uACE0? \uB300\uB2E8\uD558\uB124..."
+  m_text: "\uAE38\uACE0 \uAE38\uC5C8\uB2E4.."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: f5c6d92a35627bb4b9adc5c7f0c10f96, type: 2}
   m_sharedMaterial: {fileID: -5561166644336833936, guid: f5c6d92a35627bb4b9adc5c7f0c10f96, type: 2}
@@ -24252,7 +24252,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "\uBCC4\uAC70 \uC544\uB2C8\uB124"
+  m_text: "\uC774\uB7F0\uAC8C \uB2E4\uC788\uC5B4? \uB098\uAC00\uACE0 \uB9D0\uC9C0"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: f5c6d92a35627bb4b9adc5c7f0c10f96, type: 2}
   m_sharedMaterial: {fileID: -5561166644336833936, guid: f5c6d92a35627bb4b9adc5c7f0c10f96, type: 2}
@@ -24280,8 +24280,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 50
-  m_fontSizeBase: 50
+  m_fontSize: 30
+  m_fontSizeBase: 30
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -24729,7 +24729,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "\uC575\uCF5C"
+  m_text: "\uB2E4\uC2DC\uD574\uC11C \uB9F5 \uD0D0\uBC29\uC744 \uD569\uC2DC\uB2E4"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: f5c6d92a35627bb4b9adc5c7f0c10f96, type: 2}
   m_sharedMaterial: {fileID: -5561166644336833936, guid: f5c6d92a35627bb4b9adc5c7f0c10f96, type: 2}
